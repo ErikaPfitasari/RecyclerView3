@@ -8,7 +8,11 @@ RecyclerView3
 ![rv3 6](https://cloud.githubusercontent.com/assets/22217533/20972607/fb8d3854-bcc7-11e6-81db-427e135c82fe.PNG)
 
 Nama : Erika Prafitasari
+
 Absen : 10
+
 Kelas : XI RPL 5
+
 NIS : 4703/1442.070
+
 Sekolah : SMK TELKOM MALANG
