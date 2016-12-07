@@ -1,11 +1,11 @@
 RecyclerView3
 
-![rv3 6](https://cloud.githubusercontent.com/assets/22217533/20972162/94af7efe-bcc6-11e6-9961-d6cf7e4f9884.PNG)
-![rv3 5](https://cloud.githubusercontent.com/assets/22217533/20972157/94ac5f4e-bcc6-11e6-88dd-df828cb4b152.PNG)
-![rv3 4](https://cloud.githubusercontent.com/assets/22217533/20972159/94abac02-bcc6-11e6-9f0e-979d786f273e.PNG)
-![rv3 3](https://cloud.githubusercontent.com/assets/22217533/20972160/94abf9e6-bcc6-11e6-833f-f2e3c9a539b4.PNG)
-![Uploading rv3 2.PNG…]()
-![Uploading rv3.PNG…]()
+![rv3](https://cloud.githubusercontent.com/assets/22217533/20972592/edf32eb0-bcc7-11e6-95df-f34d690d8d26.PNG)
+![rv3 2](https://cloud.githubusercontent.com/assets/22217533/20972596/f1b7236c-bcc7-11e6-917c-6dcb7ca5a59b.PNG)
+![rv3 3](https://cloud.githubusercontent.com/assets/22217533/20972599/f35e6a4a-bcc7-11e6-9ea1-7fbb41f4ae22.PNG)
+![rv3 4](https://cloud.githubusercontent.com/assets/22217533/20972601/f4e2b1f0-bcc7-11e6-9b54-bdfb08c8abb9.PNG)
+![rv3 5](https://cloud.githubusercontent.com/assets/22217533/20972604/f741d674-bcc7-11e6-9537-b770c034c71e.PNG)
+![rv3 6](https://cloud.githubusercontent.com/assets/22217533/20972607/fb8d3854-bcc7-11e6-81db-427e135c82fe.PNG)
 
 Nama : Erika Prafitasari
 Absen : 10
